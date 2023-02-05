@@ -82,6 +82,9 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 <a href="https://srummanf.hashnode.dev/"><img src="https://img.shields.io/badge/-@srummanf-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 </p>
 
+### Here's a treat for my snake
+![snake gif](https://github.com/srummanf/srummanf/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
