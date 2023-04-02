@@ -6,7 +6,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaikh Rumman Fardeen
 =============================================================================================================================================
 
-Front-End and Django Developer, UI/UX Designer. Philomath
+Front-End and Flask Developer, UI/UX Designer. Philomath
 ---------------------------------------------------------
 
 I am a self learned coder, hailing from the City of Joy. I have been doing Web Dev and UI/UX Designing for the past two months and I am a Machine Learning Enthusiast. I do Open Source contributions whenever I am free. A Proud Extrovert and believes in the Alhumdullilah Mindset
