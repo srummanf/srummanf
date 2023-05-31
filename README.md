@@ -55,7 +55,7 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 
 <!-- <p align="left"> <a href="https://www.dev.to/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://srummanf.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rumf.ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://srummanf.hashnode.dev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="30" /></a>
 <a href="https://codepen.io/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srummanf" height="30" width="40" /></a>
@@ -103,7 +103,7 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 <a href="https://instagram.com/rumf.ar"><img src="https://img.shields.io/badge/-@rumf.ar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/srummanf"><img src="https://img.shields.io/badge/-@srummanf-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://srummanf.hashnode.dev/"><img src="https://img.shields.io/badge/-@srummanf-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
-</p>
+</p> -->
 
 
 
@@ -143,7 +143,7 @@ Front-End and Flask Developer, UI/UX Designer. Philomath<br>--------------------
 
 
 ### Here's a treat for my snake
-![snake gif](https://github.com/srummanf/srummanf/blob/output/github-contribution-grid-snake.gif)
+
 ![Snake animation](https://github.com/srummanf/srummanf/blob/output/github-contribution-grid-snake.svg)
 
 
