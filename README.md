@@ -6,7 +6,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaikh Rumman Fardeen
 =============================================================================================================================================
 
-Front-End and Django Developer, UI/UX Designer. Philomath
+Front-End and Flask Developer, UI/UX Designer. Philomath
 ---------------------------------------------------------
 
 I am a self learned coder, hailing from the City of Joy. I have been doing Web Dev and UI/UX Designing for the past two months and I am a Machine Learning Enthusiast. I do Open Source contributions whenever I am free. A Proud Extrovert and believes in the Alhumdullilah Mindset
@@ -19,6 +19,7 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 * 🤝  I'm open to collaborating on Web Development, UI Designing and Python Projects
 * ⚡  "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srummanf" alt="srummanf" /></a> </p>
 
 ### Skills
 
@@ -52,7 +53,30 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://srummanf.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rumf.ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!-- <p align="left"> <a href="https://www.dev.to/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://srummanf.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rumf.ar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/srummanf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://srummanf.hashnode.dev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="30" /></a>
+<a href="https://codepen.io/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://dev.to/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://twitter.com/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://instagram.com/rumf.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumf.ar" height="30" width="40" /></a>
+<a href="https://dribbble.com/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://www.behance.net/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://hashnode.com/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://medium.com/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rummanf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rummanf" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shaikhrumman_fa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhrumman_fa1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srummanf" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rummanfardeen4567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rummanfardeen4567" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rummanfardeen4567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rummanfardeen4567" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/srummanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="srummanf" height="30" width="40" /></a>
+</p>
+
+
 
 ### Badges
 
@@ -81,7 +105,7 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 <a href="https://srummanf.hashnode.dev/"><img src="https://img.shields.io/badge/-@srummanf-1877F2?style=flat&logo=Hashnode&logoColor=white"/></a>
 </p>
 
- -->
+
 
 
  # 💫 About Me:
