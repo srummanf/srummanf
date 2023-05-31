@@ -142,6 +142,8 @@ Front-End and Flask Developer, UI/UX Designer. Philomath<br>--------------------
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+### Here's a treat for my snake
+![snake gif](https://github.com/srummanf/srummanf/blob/output/github-contribution-grid-snake.gif)
 ![Snake animation](https://github.com/srummanf/srummanf/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -170,3 +172,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
