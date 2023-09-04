@@ -106,14 +106,40 @@ I am a self learned coder, hailing from the City of Joy. I have been doing Web D
 </p> -->
 
 
-
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
  # 💫 About Me:
-Front-End and Flask Developer, UI/UX Designer. Philomath<br>---------------------------------------------------------<br><br>I am a self learned coder, hailing from the City of Joy. I have been doing Web Dev and UI/UX Designing for the past two months and I am a Machine Learning Enthusiast. I do Open Source contributions whenever I am free. A Proud Extrovert and believes in the Alhumdullilah Mindset<br><br> 🌍  I'm based in India<br> 🖥️  See my portfolio at [My Portfolio](http://srummanf.github.io/portweb/)<br> ✉️  You can contact me at [rummanfardeen4567@gmail.com](mailto:rummanfardeen4567@gmail.com)<br> 🚀  I'm currently working on [Mumin](http://srummanf.github.io/Mumin---HTML-CSS-JS/)<br> 🧠  I'm learning React<br> 🤝  I'm open to collaborating on Web Development, UI Designing and Python Projects<br> ⚡  "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
+Full Stack React/Next Dev, Flask Dev, UI/UX Designer. Philomath<br>---------------------------------------------------------<br><br>I am a self learned coder, hailing from the City of Joy. I have been doing Web Dev and UI/UX Designing for the past two months and I am a Machine Learning Enthusiast. I do Open Source contributions whenever I am free. A Proud Extrovert and believes in the Alhumdullilah Mindset<br><br> 🌍  I'm based in India<br> 🖥️  See my portfolio at [My Portfolio](http://srummanf.github.io/portweb/)<br> ✉️  You can contact me at [rummanfardeen4567@gmail.com](mailto:rummanfardeen4567@gmail.com)<br>  🤝  I'm open to collaborating on Web Development, UI Designing and Python Projects<br> ⚡  "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rumf.ar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srummanf) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/srummanf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/srummanf) 
+<div align="left">
+  <a href="https://twitter.com/srummanf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/srummanf " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rumf.ar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="9903581057" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://dribbble.com/srummanf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="rummanfardeen4567@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+###
+
 
 [![@srummanf's Holopin board](https://holopin.me/srummanf)](https://holopin.io/@srummanf)
 
@@ -129,9 +155,13 @@ Front-End and Flask Developer, UI/UX Designer. Philomath<br>--------------------
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=srummanf&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=srummanf&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srummanf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=srummanf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srummanf&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
@@ -145,20 +175,11 @@ Front-End and Flask Developer, UI/UX Designer. Philomath<br>--------------------
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+-------
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### Here's a treat for my snake
-
-
-<img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-[![](https://visitcount.itsvg.in/api?id=srummanf&icon=5&color=6)](https://visitcount.itsvg.in)
 
 
 
@@ -182,8 +203,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://profile-readme-generator.com/
 -->
-
-<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) -->
-
-
