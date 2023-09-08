@@ -76,6 +76,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 -------
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
