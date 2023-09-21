@@ -60,11 +60,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=srummanf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srummanf&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srummanf&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srummanf&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=default&utcOffset=8)
+  <>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srummanf&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srummanf&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srummanf&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=dracula&utcOffset=8)
 
 
 
