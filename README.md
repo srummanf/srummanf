@@ -76,8 +76,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srummanf&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=srummanf)](https://github.com/srummanf/github-twitter-card-embed) -->
+## 🐦 Latest Tweet
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=srummanf)](https://github.com/gazf/github-readme-twitter)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
