@@ -59,6 +59,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=srummanf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+
+  [![](https://raw.githubusercontent.com/srummanf/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=dracula)
+[![](https://raw.githubusercontent.com/srummanf/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/srummanf/github-profile-summary-cards) [![](https://raw.githubusercontent.com/srummanf/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/srummanf/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/srummanf/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/srummanf/github-profile-summary-cards) [![](https://raw.githubusercontent.com/srummanf/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/srummanf/github-profile-summary-cards)
 </div>
 
 ###
