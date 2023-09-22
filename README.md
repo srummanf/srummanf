@@ -89,6 +89,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 14 September 2023 - To: 21 September 2023
+
+Total Time: 10 hrs 31 mins
+
 HTML         5 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.08 %
 JavaScript   1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
 TypeScript   1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
