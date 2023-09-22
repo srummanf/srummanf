@@ -100,6 +100,10 @@ Solidity     16 mins         ▒░░░░░░░░░░░░░░░░
 
 
 <hr>
+<img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
+
+
+
 <!-- <img src="https://github-readme-linkedin-wga2.vercel.app/user?username=srummanf" /> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
