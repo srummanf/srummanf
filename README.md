@@ -11,8 +11,9 @@
 
 
 
-<br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset<br><br> 🌍  I'm based in India<br> 🖥️  See my portfolio at [My Portfolio](http://srummanf.github.io/portweb/)<br> ✉️  You can contact me at [rummanfardeen4567@gmail.com](mailto:rummanfardeen4567@gmail.com)<br>  🤝  I'm open to collaborating on Web Development, UI Designing and Python Projects<br> ⚡  "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
+<br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset<br><br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
+[![srummanf's Web3 | Identity](https://stats.quine.sh/srummanf/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
 
 ## 🌐 Socials:
 <div align="left">
@@ -55,7 +56,10 @@
 
 
 # 📊 GitHub Stats:
+
 <div align="center">
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=srummanf&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -72,6 +76,17 @@
 </div>
 
 ###
+
+# ✨ Quine Stats:
+<div align="center">
+
+[![srummanf's GitHub | Stats](https://stats.quine.sh/srummanf/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+
+[![srummanf's GitHub | Topics Over Time](https://stats.quine.sh/srummanf/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+
+[![srummanf's GitHub | Languages Over Time](https://stats.quine.sh/srummanf/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srummanf&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
@@ -211,3 +226,5 @@ https://profile-readme-generator.com/
 
 
 <!-- https://github.com/anmol098/waka-readme-stats#new-to-wakatime -->
+
+<!-- https://github.com/athul/waka-readme -->
