@@ -11,9 +11,10 @@
 
 
 
-<br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset<br><br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
+<br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset<br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
 [![srummanf's Web3 | Identity](https://stats.quine.sh/srummanf/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+
 
 ## 🌐 Socials:
 <div align="left">
@@ -47,7 +48,7 @@
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,git,github,githubactions,html,css,bootstrap,wordpress,tailwind,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
   </a>
 
 
