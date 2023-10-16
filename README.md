@@ -48,7 +48,7 @@
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
   </a>
 
 
