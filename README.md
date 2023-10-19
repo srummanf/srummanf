@@ -89,6 +89,9 @@
 </div>
 
 
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srummanf&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
 
@@ -101,7 +104,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
--------
+
+# ✨ WakaTime Stats:
+<img src="https://wakatime.com/share/@srummanf/65d3ac6c-7ef3-42a2-a7a2-6934c50af7ff.svg" height="400" alt="streak graph"  />
 <!--START_SECTION:waka-->
 
 ```txt
