@@ -7,7 +7,7 @@
 <div align="center">
 
 <h4>Full Stack React/Next Dev, Flask Dev, Blockchain Dev, UI/UX Designer, Technical Content Writer .Philomath</h4> </div>
-
+<div align="center">
 ![1698419099484](image/README/1698419099484.png)
 </div>
 
