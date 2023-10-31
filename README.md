@@ -8,8 +8,6 @@
 
 <h4>Full Stack React/Next Dev, Flask Dev, Blockchain Dev, UI/UX Designer, Technical Content Writer .Philomath</h4> </div>
 
-![1698419099484](image/README/1698419099484.png)
-
 
 <br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset <br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
