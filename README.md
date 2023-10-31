@@ -90,6 +90,8 @@
 # ✨ WakaTime Stats:
 
 <img src="https://wakatime.com/share/@srummanf/65d3ac6c-7ef3-42a2-a7a2-6934c50af7ff.svg" height="400" alt="streak graph"  />
+
+<img src="assets/bar_graph.png" height="400" alt="streak graph"  />
 <!--START_SECTION:waka-->
 
 ```txt
@@ -108,6 +110,8 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 
 <hr>
 <img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- <img src="https://github-readme-linkedin-wga2.vercel.app/user?username=srummanf" /> -->
 
