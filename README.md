@@ -8,8 +8,7 @@
 
 <h4>Full Stack React/Next Dev, Flask Dev, Blockchain Dev, UI/UX Designer, Technical Content Writer .Philomath</h4> </div>
 
-
-<br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset <br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
+`<br>`I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset `<br>` "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
 [![srummanf's Web3 | Identity](https://stats.quine.sh/srummanf/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
 
@@ -60,7 +59,8 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srummanf&theme=dracula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=dracula&utcOffset=8)
 
-</div>
+`</div>`
+
 
 # ✨ Quine Stats:
 
@@ -89,6 +89,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 # ✨ WakaTime Stats:
 
 <img src="https://wakatime.com/share/@srummanf/65d3ac6c-7ef3-42a2-a7a2-6934c50af7ff.svg" height="400" alt="streak graph"  />
@@ -112,8 +116,6 @@ SCSS              18 mins         ▓░░░░░░░░░░░░░░�
 
 <hr>
 <img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- <img src="https://github-readme-linkedin-wga2.vercel.app/user?username=srummanf" /> -->
 
