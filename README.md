@@ -35,6 +35,8 @@
   </a>
 </div>
 
+<br></br>
+
 [![@srummanf's Holopin board](https://holopin.me/srummanf)](https://holopin.io/@srummanf)
 
 # 💻 Tech Stack:
