@@ -92,26 +92,36 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://srummanf.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684879002236/2a94e50f-df85-494c-9d94-0799010b906e.avif" alt="Beginner guide to deploying Micro-services on Kubernetes" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/beginner-guide-to-deploying-micro-services-on-kubernetes" title="Beginner guide to deploying Micro-services on Kubernetes"><strong>Beginner guide to deploying Micro-services on Kubernetes</strong></a>
-<div><strong>23 May 2023</strong> | <strong>Updated: 25 May 2023</strong></div>
-<br/> In today's fast-paced digital landscape, businesses are increasingly adopting microservices architecture to build scalable and resilient applications. Microservices offer a modular approach to application development, allowing different components to... </p> <br/> <br/>
+<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-2" title="Build a Blogging website using Node, Express and MongoDB: Part 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684216197938/5bb6d862-b60a-4315-8fd8-6d12a8d40dc3.png" alt="Build a Blogging website using Node, Express and MongoDB: Part 2" width="250px" align="left" /></a>
+<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-2" title="Build a Blogging website using Node, Express and MongoDB: Part 2"><strong>Build a Blogging website using Node, Express and MongoDB: Part 2</strong></a>
+<div><strong>16 May 2023</strong></div>
+<br/> In our previous blog Build a Blogging website using Node, Express and MongoDB: Part 1 (hashnode.dev), we revised the concepts of Node, Express, and EJS templating and wrote the boilerplate code for our project. In this Blog which is in continuation w... </p> <br/> <br/>
 <p align="left">
-<a href="https://srummanf.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684178061508/965d180d-32ce-4d6d-8bbf-498a5687220f.png" alt="Next.js 13.4: Everything You Need to Know (Part - 1)" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/nextjs-13-everything-you-need-to-know" title="Next.js 13.4: Everything You Need to Know (Part - 1)"><strong>Next.js 13.4: Everything You Need to Know (Part - 1)</strong></a>
-<div><strong>15 May 2023</strong> | <strong>Updated: 16 May 2023</strong></div>
-<br/> Next.js is a React framework that enables you to build fast, dynamic, and SEO-friendly web apps with ease. It provides features such as file-system-based routing, server-side rendering, automatic code splitting, data fetching, image optimization, and... </p> <br/> <br/>
+<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-2" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683950393260/6cb0f3c8-6a57-4dbf-a55e-85868fccdddb.png" alt="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2" width="250px" align="left" /></a>
+<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-2" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2"><strong>Let's Learn Dash - A Data Visualization Framework based on Python: Part 2</strong></a>
+<div><strong>13 May 2023</strong></div>
+<br/> In the previous blog, we made a website that showed us the data on avocados and was quite beautiful. In continuation with the previous blog Let's Learn Dash - A Data Visualization Framework based on Python: Part 1, we are going to add styling and use... </p> <br/> <br/>
 <p align="left">
-<a href="https://srummanf.hashnode.dev/what-is-contributing-to-open-source-and-how-to-contribute-to-open-source-programs-2023" title="What is contributing to open-source and how to contribute to open-source programs 2023"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670386427119/jvIcnxOIs.jpeg" alt="What is contributing to open-source and how to contribute to open-source programs 2023" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/what-is-contributing-to-open-source-and-how-to-contribute-to-open-source-programs-2023" title="What is contributing to open-source and how to contribute to open-source programs 2023"><strong>What is contributing to open-source and how to contribute to open-source programs 2023</strong></a>
-<div><strong>7 Dec 2022</strong> | <strong>Updated: 7 Dec 2022</strong></div>
-<br/> Depending on the project you're working on, contributing to open source may be frightening and perplexing. Additionally, the majority of large open-source projects have a steep learning curve. However, as proven, there are many chances for newcomers ... </p> <br/> <br/>
+<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-1" title="Build a Blogging website using Node, Express and MongoDB: Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bGdiuIyN3Rs/upload/ede7ceb161f3ebefcb53419d82f6dd5b.jpeg" alt="Build a Blogging website using Node, Express and MongoDB: Part 1" width="250px" align="left" /></a>
+<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-1" title="Build a Blogging website using Node, Express and MongoDB: Part 1"><strong>Build a Blogging website using Node, Express and MongoDB: Part 1</strong></a>
+<div><strong>12 May 2023</strong></div>
+<br/> Whether you want to revise the concepts of the above-mentioned tech stack or want to learn them, trust me, it is a golden opportunity for both types of folks. So we will learn/revise by building a Blog website.
+
+Node
+
+Express
+
+MongoDB
+
+
+What is Node?... </p> <br/> <br/>
 <p align="left">
-<a href="https://srummanf.hashnode.dev/finite-state-automata" title="Finite State Automata"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/xG8IQMqMITM/upload/v1669224714646/LaqugFGS7.jpeg" alt="Finite State Automata" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/finite-state-automata" title="Finite State Automata"><strong>Finite State Automata</strong></a>
-<div><strong>23 Nov 2022</strong> | <strong>Updated: 26 Nov 2022</strong></div>
-<br/> Introduction
-An automata, also known as an abstract machine or model, is anything that is examined in order to find solutions to difficult mathematical problems. The computer science subfield known as the Theory of Automata is intimately connected to... </p> <br/> <br/>
+<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-1" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683643951342/3bb42e61-1f54-45c2-9226-6ece24862cb0.png" alt="Let's Learn Dash - A Data Visualization Framework based on Python: Part 1" width="250px" align="left" /></a>
+<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-1" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 1"><strong>Let's Learn Dash - A Data Visualization Framework based on Python: Part 1</strong></a>
+<div><strong>9 May 2023</strong></div>
+<br/> You have seen websites that beautify data visualization, and graph visualization but often get intimated upon how complex the development of such websites can be. So there are many frameworks. One such framework is Dash
+What is Dash?
+Dash is an open-... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # ✨ WakaTime Stats:
