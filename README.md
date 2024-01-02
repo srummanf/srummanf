@@ -94,6 +94,11 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach" title="Cracking the Google Cloud Digital Exam: A Strategic Approach"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700378865643/5afea18f-1174-4aae-ae24-99a7c74fc793.png" alt="Cracking the Google Cloud Digital Exam: A Strategic Approach" width="250px" align="left" /></a>
+<a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach" title="Cracking the Google Cloud Digital Exam: A Strategic Approach"><strong>Cracking the Google Cloud Digital Exam: A Strategic Approach</strong></a>
+<div><strong>19 Nov 2023</strong></div>
+<br/> In the fast-paced world of cloud computing, earning certifications has become a valuable asset for professionals. One such coveted certification is the Google Cloud Digital Exam. In this article, I will be explaining how I cracked the exam without pu... </p> <br/> <br/>
+<p align="left">
 <a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-2" title="Build a Blogging website using Node, Express and MongoDB: Part 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684216197938/5bb6d862-b60a-4315-8fd8-6d12a8d40dc3.png" alt="Build a Blogging website using Node, Express and MongoDB: Part 2" width="250px" align="left" /></a>
 <a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-2" title="Build a Blogging website using Node, Express and MongoDB: Part 2"><strong>Build a Blogging website using Node, Express and MongoDB: Part 2</strong></a>
 <div><strong>16 May 2023</strong></div>
@@ -117,13 +122,6 @@ MongoDB
 
 
 What is Node?... </p> <br/> <br/>
-<p align="left">
-<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-1" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683643951342/3bb42e61-1f54-45c2-9226-6ece24862cb0.png" alt="Let's Learn Dash - A Data Visualization Framework based on Python: Part 1" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-1" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 1"><strong>Let's Learn Dash - A Data Visualization Framework based on Python: Part 1</strong></a>
-<div><strong>9 May 2023</strong></div>
-<br/> You have seen websites that beautify data visualization, and graph visualization but often get intimated upon how complex the development of such websites can be. So there are many frameworks. One such framework is Dash
-What is Dash?
-Dash is an open-... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # ✨ WakaTime Stats:
