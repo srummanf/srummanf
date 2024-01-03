@@ -132,15 +132,12 @@ What is Node?... </p> <br/> <br/>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 11 hrs 17 mins
+Total Time: 14 mins
 
-JavaScript        6 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.70 %
-Java              1 hr 48 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-TypeScript        1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-CSS               54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-SCSS              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+YAML   13 mins         ████████████████████████▒   96.80 %
+Text   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
