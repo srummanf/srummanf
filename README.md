@@ -132,12 +132,14 @@ What is Node?... </p> <br/> <br/>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Total Time: 14 mins
+Total Time: 28 mins
 
-YAML   13 mins         ████████████████████████▒   96.80 %
-Text   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Java    13 mins         ████████████▒░░░░░░░░░░░░   49.62 %
+YAML    13 mins         ████████████░░░░░░░░░░░░░   48.61 %
+Text    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
