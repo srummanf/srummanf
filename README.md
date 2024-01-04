@@ -94,6 +94,11 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://srummanf.hashnode.dev/empowering-web3-ux-through-push-protocols-notification-system" title="Empowering Web3 UX through Push Protocol's Notification System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704378041243/95c141e0-60d1-4d2a-878f-6e066231369c.png" alt="Empowering Web3 UX through Push Protocol's Notification System" width="250px" align="left" /></a>
+<a href="https://srummanf.hashnode.dev/empowering-web3-ux-through-push-protocols-notification-system" title="Empowering Web3 UX through Push Protocol's Notification System"><strong>Empowering Web3 UX through Push Protocol's Notification System</strong></a>
+<div><strong>4 Jan 2024</strong></div>
+<br/> Welcome to our step-by-step guide on integrating Push Protocol's notification system into your NextJS web application. In this blog, we'll cover the process of initializing a user, creating a notification channel, and implementing the APIs for sendin... </p> <br/> <br/>
+<p align="left">
 <a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach" title="Cracking the Google Cloud Digital Exam: A Strategic Approach"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700378865643/5afea18f-1174-4aae-ae24-99a7c74fc793.png" alt="Cracking the Google Cloud Digital Exam: A Strategic Approach" width="250px" align="left" /></a>
 <a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach" title="Cracking the Google Cloud Digital Exam: A Strategic Approach"><strong>Cracking the Google Cloud Digital Exam: A Strategic Approach</strong></a>
 <div><strong>19 Nov 2023</strong></div>
@@ -108,20 +113,6 @@
 <a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-2" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2"><strong>Let's Learn Dash - A Data Visualization Framework based on Python: Part 2</strong></a>
 <div><strong>13 May 2023</strong></div>
 <br/> In the previous blog, we made a website that showed us the data on avocados and was quite beautiful. In continuation with the previous blog Let's Learn Dash - A Data Visualization Framework based on Python: Part 1, we are going to add styling and use... </p> <br/> <br/>
-<p align="left">
-<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-1" title="Build a Blogging website using Node, Express and MongoDB: Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bGdiuIyN3Rs/upload/ede7ceb161f3ebefcb53419d82f6dd5b.jpeg" alt="Build a Blogging website using Node, Express and MongoDB: Part 1" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-1" title="Build a Blogging website using Node, Express and MongoDB: Part 1"><strong>Build a Blogging website using Node, Express and MongoDB: Part 1</strong></a>
-<div><strong>12 May 2023</strong></div>
-<br/> Whether you want to revise the concepts of the above-mentioned tech stack or want to learn them, trust me, it is a golden opportunity for both types of folks. So we will learn/revise by building a Blog website.
-
-Node
-
-Express
-
-MongoDB
-
-
-What is Node?... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 # ✨ WakaTime Stats:
