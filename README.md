@@ -2,15 +2,24 @@
   <img height="150" src="https://camo.githubusercontent.com/0827d2686486b40ecd8ca763f34567c04909cec9162d1435ca29f82265d97697/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a49583974326a305a544e39532f67697068792d646f776e73697a65642e676966"  />
 </div>
 <div align="center">
- <h1>Shaikh Rumman Fardeen</h1> </div>
+ <h1>Shaikh Rumman Fardeen</h1> 
+</div>
+ 
+****
 
 <div align="center">
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/ojasaklechayt/achievements?format=svg&limit=3" width="350" />
+</p>
+
 
 <h4>Full Stack React/Next Dev, Flask Dev, Blockchain Dev, UI/UX Designer, Technical Content Writer .Philomath</h4> </div>
 
 <br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset <br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
 
 [![srummanf's Web3 | Identity](https://stats.quine.sh/srummanf/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+
+
 
 ## 🌐 Socials:
 
@@ -54,6 +63,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=srummanf&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=dracula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srummanf&theme=dracula)
