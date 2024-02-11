@@ -133,15 +133,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2024 - To: 09 February 2024
+From: 03 February 2024 - To: 10 February 2024
 
-Total Time: 7 hrs 36 mins
+Total Time: 8 hrs 45 mins
 
-Java         3 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.54 %
-JavaScript   3 hrs           ██████████░░░░░░░░░░░░░░░   39.56 %
-Python       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Prisma       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Java         4 hrs 18 mins   ████████████▒░░░░░░░░░░░░   49.24 %
+JavaScript   3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.34 %
+Python       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Prisma       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
