@@ -133,13 +133,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2024 - To: 29 March 2024
+From: 23 March 2024 - To: 30 March 2024
 
-Total Time: 6 hrs 32 mins
+Total Time: 6 hrs 57 mins
 
-Java         4 hrs 44 mins   ██████████████████░░░░░░░   72.58 %
-PHP          1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Java         5 hrs 8 mins    ██████████████████▒░░░░░░   73.83 %
+PHP          1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Other        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
