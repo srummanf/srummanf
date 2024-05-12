@@ -133,13 +133,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2024 - To: 10 May 2024
+From: 04 May 2024 - To: 11 May 2024
 
-Total Time: 5 hrs 16 mins
+Total Time: 2 hrs 41 mins
 
-Java    5 hrs 7 mins    ████████████████████████▒   97.42 %
-HTML    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java   2 hrs 33 mins   ████████████████████████░   95.36 %
+HTML   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
