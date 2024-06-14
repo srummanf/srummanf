@@ -133,11 +133,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
-Total Time: 2 hrs 1 min
+Total Time: 1 hr 24 mins
 
-Java   2 hrs           █████████████████████████   100.00 %
+Java   1 hr 24 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
