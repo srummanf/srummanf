@@ -58,6 +58,8 @@
 
 <div align="center">
 
+[![wakatime](https://wakatime.com/badge/user/9c794c5f-0863-41ab-ab1b-674e4daa46a0.svg)](https://wakatime.com/@9c794c5f-0863-41ab-ab1b-674e4daa46a0)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
