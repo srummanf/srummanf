@@ -135,14 +135,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 25 June 2024
+From: 19 June 2024 - To: 26 June 2024
 
-Total Time: 54 mins
+Total Time: 19 mins
 
-Java       52 mins         ████████████████████████▒   96.93 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java       17 mins         ███████████████████████░░   92.29 %
+Markdown   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Git        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
