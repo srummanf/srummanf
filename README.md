@@ -72,6 +72,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srummanf&theme=dracula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srummanf&theme=dracula)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=dracula&utcOffset=8)
+  [![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 `</div>`
 
