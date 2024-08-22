@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/0827d2686486b40ecd8ca763f34567c04909cec9162d1435ca29f82265d97697/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a49583974326a305a544e39532f67697068792d646f776e73697a65642e676966"  />
+  <img src="srummanf poster.png"  />
 </div>
 <div align="center">
  <h1>Shaikh Rumman Fardeen</h1> 
