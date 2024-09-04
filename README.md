@@ -136,12 +136,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-Total Time: 2 hrs 36 mins
+Total Time: 4 hrs 13 mins
 
-Java    2 hrs 34 mins   ████████████████████████▓   98.83 %
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Java         4 hrs 9 mins    ████████████████████████▓   98.69 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
