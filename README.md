@@ -136,11 +136,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Total Time: 42 mins
+Total Time: 23 mins
 
-JavaScript   42 mins         █████████████████████████   100.00 %
+JavaScript   21 mins         ██████████████████████▓░░   90.37 %
+Java         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
 ```
 
 <!--END_SECTION:waka-->
