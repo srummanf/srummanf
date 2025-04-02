@@ -136,15 +136,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2025 - To: 31 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
-Total Time: 1 hr 53 mins
+Total Time: 0 secs
 
-JavaScript   1 hr 16 mins    ████████████████▓░░░░░░░░   67.27 %
-Solidity     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-HTML         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
