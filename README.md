@@ -136,15 +136,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-Total Time: 15 hrs 47 mins
+Total Time: 10 hrs 32 mins
 
-TypeScript   14 hrs 55 mins  ███████████████████████▓░   94.49 %
-CSS          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   10 hrs 3 mins   ████████████████████████░   95.40 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
