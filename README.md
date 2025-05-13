@@ -136,11 +136,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-Total Time: 0 secs
+Total Time: 41 mins
 
-No activity tracked
+JSON         25 mins         ███████████████▓░░░░░░░░░   63.09 %
+TypeScript   15 mins         █████████░░░░░░░░░░░░░░░░   36.54 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
