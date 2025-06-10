@@ -1,52 +1,77 @@
+<!-- 
 <div align="center">
-  <img src="srummanf poster.png"  />
+  <img src="srummanf poster.png" alt="Shaikh Rumman Fardeen Profile Banner" />
 </div>
-<div align="center">
- <h1>Shaikh Rumman Fardeen</h1> 
-</div>
- 
-****
+-->
 
 <div align="center">
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/ojasaklechayt/achievements?format=svg&limit=3" width="350" />
+  <h1>Shaikh Rumman Fardeen</h1>
+</div>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 </p>
 
+---
 
-<h4>Full Stack React/Next Dev, Flask Dev, Blockchain Dev, UI/UX Designer, Technical Content Writer .Philomath</h4> </div>
+<div align="center">
+  <!-- 
+  <p>
+    <img src="https://api.vaunt.dev/v1/github/entities/ojasaklechayt/achievements?format=svg&limit=3" width="350" alt="GitHub Achievements" />
+  </p>
+  -->
+  <h3>Software Developer | UI/UX Designer | ML | AI </h3>
+</div>
 
-<br>I am a self learned coder, hailing from the City of Joy. I do Open Source contributions whenever I am free. A Simple Extrovert and believes in the Alhumdullilah Mindset <br> "Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu" -- And my success is not but through Allah. Upon Him I have relied, and to Him I return.
+<div align="center">
+  
+**Software Developer with a passion for crafting digital experiences** 💻  
+*Turning coffee into code since forever* ☕ → 💻  
 
-[![srummanf's Web3 | Identity](https://stats.quine.sh/srummanf/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+Self-taught developer from the City of Joy 🌟 | Open Source Contributor 🤝 | Simple Extrovert who believes in the Alhumdullilah Mindset 🙏  
+
+*"Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu"*  
+**"And my success is not but through Allah. Upon Him I have relied, and to Him I return."**
+
+</div>
+
+<div align="center">
+  
 
 
+</div>
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 
 <div align="center">
   <a href="https://twitter.com/srummanf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter"  />
   </a>
-  <a href="https://www.linkedin.com/in/srummanf " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/srummanf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"  />
   </a>
   <a href="https://www.instagram.com/ig.srummanf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"  />
   </a>
-  <a href="9903581057" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/9903581057" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp"  />
   </a>
   <a href="https://dribbble.com/srummanf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="Dribbble"  />
   </a>
-  <a href="rummanfardeen4567@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:rummanfardeen4567@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"  />
   </a>
 </div>
 
-<br></br>
+<br>
 
+<div align="center">
+  
 [![@srummanf's Holopin board](https://holopin.me/srummanf)](https://holopin.io/@srummanf)
+
+</div>
 
 # 💻 Tech Stack:
 
