@@ -54,12 +54,6 @@ Self-taught developer from the City of Joy 🌟 | Open Source Contributor 🤝 |
   <a href="https://www.instagram.com/ig.srummanf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"  />
   </a>
-  <a href="https://wa.me/9903581057" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp"  />
-  </a>
-  <a href="https://dribbble.com/srummanf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="Dribbble"  />
-  </a>
   <a href="mailto:rummanfardeen4567@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"  />
   </a>
@@ -101,7 +95,7 @@ Self-taught developer from the City of Joy 🌟 | Open Source Contributor 🤝 |
 
 `</div>`
 
-
+<!-- 
 # ✨ Quine Stats:
 
 <div align="center">
@@ -113,6 +107,7 @@ Self-taught developer from the City of Joy 🌟 | Open Source Contributor 🤝 |
 [![srummanf's GitHub | Languages Over Time](https://stats.quine.sh/srummanf/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
 
 </div>
+-->
 
 ## 🏆 GitHub Trophies
 
