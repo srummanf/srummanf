@@ -136,13 +136,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Total Time: 43 mins
+Total Time: 37 mins
 
-TypeScript   24 mins         ██████████████░░░░░░░░░░░   55.86 %
-Python       15 mins         █████████░░░░░░░░░░░░░░░░   36.32 %
-HTML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+TypeScript   18 mins         ████████████░░░░░░░░░░░░░   48.59 %
+Python       15 mins         ██████████▓░░░░░░░░░░░░░░   42.30 %
+HTML         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 ```
 
 <!--END_SECTION:waka-->
