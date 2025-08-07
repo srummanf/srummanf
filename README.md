@@ -186,7 +186,18 @@ Text         14 mins         ▓░░░░░░░░░░░░░░░░
 <hr>
 <img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
+</picture>
+
+
 [![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=21262d&color=f0f6fc&line=39d353&point=006d32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=srummanf.srummanf&"  />
+</div>
 
 <!-- <img src="https://github-readme-linkedin-wga2.vercel.app/user?username=srummanf" /> -->
 
