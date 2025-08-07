@@ -7,7 +7,7 @@ https://github.com/DenverCoder1/readme-typing-svg - https://readme-typing-svg.de
  Add dynamically generated GitHub Stat Trophies
  https://github.com/ryo-ma/github-profile-trophy - https://github-profile-trophy.vercel.app/
 
- PACMAN, Spotify and Other Cool Tools to add in Your README
+ PACMAN, Snake, Spotify and Other Cool Tools to add in Your README
  https://github.com/maurodesouza/profile-readme-generator - https://profile-readme-generator.com/
 
  Waka ReadME Stats
