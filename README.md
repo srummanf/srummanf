@@ -107,7 +107,7 @@ VIT Chennai Alumnus 🏫 | Selenophile 🌖 | Simple Extrovert who believes in t
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=dracula&utcOffset=8)
   [![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-`</div>`
+
 
 <!-- 
 # ✨ Quine Stats:
@@ -185,6 +185,8 @@ Text         14 mins         ▓░░░░░░░░░░░░░░░░
 
 <hr>
 <img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
+
+[![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=21262d&color=f0f6fc&line=39d353&point=006d32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <img src="https://github-readme-linkedin-wga2.vercel.app/user?username=srummanf" /> -->
 
