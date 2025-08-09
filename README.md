@@ -186,6 +186,9 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
 </picture>
 
+## 🌌 My Coding Constellation
+![Coding Constellation](output/constellation.svg)
+
 
 [![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=21262d&color=f0f6fc&line=39d353&point=006d32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

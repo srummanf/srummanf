@@ -1,0 +1,24 @@
+{
+  "name": "srummanf",
+  "version": "1.0.0",
+  "description": "<!-- \r <div align=\"center\">\r   <img src=\"srummanf poster.png\" alt=\"Shaikh Rumman Fardeen Profile Banner\" />\r </div>\r -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srummanf/srummanf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/srummanf/srummanf/issues"
+  },
+  "homepage": "https://github.com/srummanf/srummanf#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
