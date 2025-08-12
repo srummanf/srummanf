@@ -47,3 +47,6 @@ https://github.com/x0rzavi/github-readme-terminal
 
 Graphviz graphs in github README 
 https://github.com/TLmaK0/gravizo
+
+Discord Lanyard
+https://lanyard.cnrad.dev/
