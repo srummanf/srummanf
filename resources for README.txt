@@ -50,3 +50,7 @@ https://github.com/TLmaK0/gravizo
 
 Discord Lanyard
 https://lanyard.cnrad.dev/
+
+Discord Card
+https://github.com/discordplace/lantern
+Eg: ![My Discord](https://lantern.rest/api/v1/users/957840712404193290?svg=1)
