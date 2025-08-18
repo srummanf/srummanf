@@ -209,7 +209,9 @@ Web3 Technologies:
 
 ## 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</div>
 
 
 ---
@@ -257,17 +259,9 @@ Total Time: 5 mins
 TypeScript   4 mins          ██████████████████▓░░░░░░   74.05 %
 JSON         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
 ```
-<<<<<<< HEAD
 <!--END_SECTION:waka--> 
 </td> 
 </tr> 
-=======
-
-<!--END_SECTION:waka-->
-
-</div>
-</tr>
->>>>>>> c5d3948970365eb9ea7e92b85d612f9e2eb90777
 </table>
 
 
