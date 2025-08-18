@@ -193,3 +193,18 @@ JSON         1 min           ██████▒░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/9c794c5f-0863-41ab-ab1b-674e4daa46a0.svg)](https://wakatime.com/@9c794c5f-0863-41ab-ab1b-674e4daa46a0)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
