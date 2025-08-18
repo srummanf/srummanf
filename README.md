@@ -1,40 +1,46 @@
-<!-- 
-<div align="center">
-  <img src="srummanf poster.png" alt="Shaikh Rumman Fardeen Profile Banner" />
-</div>
--->
+# Shaikh Rumman Fardeen
 
 <div align="center">
-  <h1>Shaikh Rumman Fardeen</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20UI/UX%20Designer%20%7C%20ML%20%7C%20AI&descAlignY=55&descSize=20" />
 </div>
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="120px" width="120px">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="120px" width="120px">
 </p>
 
 ---
 
-<div align="center">
-  <!-- 
-  <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/ojasaklechayt/achievements?format=svg&limit=3" width="350" alt="GitHub Achievements" />
-  </p>
-  -->
-  <h3>Software Developer | UI/UX Designer | ML | AI </h3>
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
-  
-**Software Developer with a passion for crafting digital experiences** 💻  
-*Turning coffee into code since forever* ☕ → 💻  
+<table>
+<tr>
+<td width="50%">
 
-VIT Chennai Alumnus 🏫 | Selenophile 🌖 | Simple Extrovert who believes in the Alhumdullilah Mindset 🙏  
+**🚀 Software Developer** with a passion for crafting digital experiences  
+**☕ Turning coffee into code** since forever  
+
+🎓 **VIT Chennai Alumnus**  
+🌖 **Selenophile** | Simple Extrovert  
+🙏 **Alhumdullilah Mindset**
 
 *"Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu"*  
 **"And my success is not but through Allah. Upon Him I have relied, and to Him I return."**
 
-</div>
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+- 🔭 Working on **Full-stack Development**
+- 🌱 Learning **Advanced AI/ML Concepts**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, Python, UI/UX**
+- 📫 Reach me: **rummanfardeen4567@gmail.com**
+- ⚡ Fun fact: **I believe good code is like poetry**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -42,7 +48,9 @@ VIT Chennai Alumnus 🏫 | Selenophile 🌖 | Simple Extrovert who believes in t
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 </div>
 
-## 🌐 Connect With Me:
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://twitter.com/srummanf" target="_blank">
@@ -59,109 +67,165 @@ VIT Chennai Alumnus 🏫 | Selenophile 🌖 | Simple Extrovert who believes in t
   </a>
 </div>
 
-<br>
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   
 [![@srummanf's Holopin board](https://holopin.me/srummanf)](https://holopin.io/@srummanf)
 
 </div>
 
-# 💻 Tech Stack:
+---
 
-<a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
-  </a>
+## 🛠️ Technology Stack
 
-# 👨‍💻 Leetcode Stats
-<div align="center">
-  <a href="https://leetcode.com/u/srummanf/">
-    <img src="https://leetcard.jacoblin.cool/srummanf?theme=dark&font=Prompt&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
+<details>
+<summary><b>🖥️ Frontend Development</b></summary>
+<br>
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-# 📊 GitHub Stats:
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Design & Tools</b></summary>
+<br>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔗 Blockchain & Web3</b></summary>
+<br>
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/9c794c5f-0863-41ab-ab1b-674e4daa46a0.svg)](https://wakatime.com/@9c794c5f-0863-41ab-ab1b-674e4daa46a0)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=srummanf&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
+      </td>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=srummanf&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srummanf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srummanf&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srummanf&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srummanf&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=dracula&utcOffset=8)
-  [![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+### 📈 Detailed GitHub Summary
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=dracula)
 
-
-<!-- 
-# ✨ Quine Stats:
-
-<div align="center">
-
-[![srummanf's GitHub | Stats](https://stats.quine.sh/srummanf/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
-
-[![srummanf's GitHub | Topics Over Time](https://stats.quine.sh/srummanf/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
-
-[![srummanf's GitHub | Languages Over Time](https://stats.quine.sh/srummanf/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srummanf)
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srummanf&theme=dracula" alt="Repos per Language" />
+      </td>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srummanf&theme=dracula" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srummanf&theme=dracula" alt="Stats" />
+      </td>
+      <td width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srummanf&theme=dracula&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 
 </div>
--->
 
-## 🏆 GitHub Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=srummanf&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Achievements & Trophies
 
-<!-- ## 🐦 Latest Tweet
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=srummanf)](https://github.com/gazf/github-readme-twitter) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srummanf&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-### ✍️ Random Dev Quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 💻 Coding Activity
 
-### 🔝 Top Contributed Repo
+<table>
+<tr>
+<td width="50%">
 
-![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🧠 LeetCode Stats
+<div align="center">
+  <a href="https://leetcode.com/u/srummanf/">
+    <img src="https://leetcard.jacoblin.cool/srummanf?theme=dark&font=Prompt&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+  
+  [![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+</div>
 
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://srummanf.hashnode.dev/empowering-web3-ux-through-push-protocols-notification-system" title="Empowering Web3 UX through Push Protocol's Notification System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704378041243/95c141e0-60d1-4d2a-878f-6e066231369c.png" alt="Empowering Web3 UX through Push Protocol's Notification System" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/empowering-web3-ux-through-push-protocols-notification-system" title="Empowering Web3 UX through Push Protocol's Notification System"><strong>Empowering Web3 UX through Push Protocol's Notification System</strong></a>
-<div><strong>4 Jan 2024</strong></div>
-<br/> Welcome to our step-by-step guide on integrating Push Protocol's notification system into your NextJS web application. In this blog, we'll cover the process of initializing a user, creating a notification channel, and implementing the APIs for sendin... </p> <br/> <br/>
-<p align="left">
-<a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach" title="Cracking the Google Cloud Digital Exam: A Strategic Approach"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700378865643/5afea18f-1174-4aae-ae24-99a7c74fc793.png" alt="Cracking the Google Cloud Digital Exam: A Strategic Approach" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach" title="Cracking the Google Cloud Digital Exam: A Strategic Approach"><strong>Cracking the Google Cloud Digital Exam: A Strategic Approach</strong></a>
-<div><strong>19 Nov 2023</strong></div>
-<br/> In the fast-paced world of cloud computing, earning certifications has become a valuable asset for professionals. One such coveted certification is the Google Cloud Digital Exam. In this article, I will be explaining how I cracked the exam without pu... </p> <br/> <br/>
-<p align="left">
-<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-2" title="Build a Blogging website using Node, Express and MongoDB: Part 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684216197938/5bb6d862-b60a-4315-8fd8-6d12a8d40dc3.png" alt="Build a Blogging website using Node, Express and MongoDB: Part 2" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/build-a-blogging-website-using-node-express-and-mongodb-part-2" title="Build a Blogging website using Node, Express and MongoDB: Part 2"><strong>Build a Blogging website using Node, Express and MongoDB: Part 2</strong></a>
-<div><strong>16 May 2023</strong></div>
-<br/> In our previous blog Build a Blogging website using Node, Express and MongoDB: Part 1 (hashnode.dev), we revised the concepts of Node, Express, and EJS templating and wrote the boilerplate code for our project. In this Blog which is in continuation w... </p> <br/> <br/>
-<p align="left">
-<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-2" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683950393260/6cb0f3c8-6a57-4dbf-a55e-85868fccdddb.png" alt="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2" width="250px" align="left" /></a>
-<a href="https://srummanf.hashnode.dev/lets-learn-dash-a-data-visualization-framework-based-on-python-part-2" title="Let's Learn Dash - A Data Visualization Framework based on Python: Part 2"><strong>Let's Learn Dash - A Data Visualization Framework based on Python: Part 2</strong></a>
-<div><strong>13 May 2023</strong></div>
-<br/> In the previous blog, we made a website that showed us the data on avocados and was quite beautiful. In continuation with the previous blog Let's Learn Dash - A Data Visualization Framework based on Python: Part 1, we are going to add styling and use... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+</td>
+<td width="50%">
 
-# ✨ WakaTime Stats:
+### ⏰ WakaTime Stats
+<div align="center">
 
-<img src="https://wakatime.com/share/@srummanf/65d3ac6c-7ef3-42a2-a7a2-6934c50af7ff.svg" height="400" alt="streak graph"  />
-
-<img src="assets/bar_graph.png" height="400" alt="streak graph"  />
 <!--START_SECTION:waka-->
-
 ```txt
 From: 10 August 2025 - To: 17 August 2025
 
@@ -170,19 +234,76 @@ Total Time: 5 mins
 TypeScript   4 mins          ██████████████████▓░░░░░░   74.05 %
 JSON         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
 ```
-
 <!--END_SECTION:waka-->
 
-<hr>
-<img src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" alt="Snake animation" />
+</div>
 
+</td>
+</tr>
+</table>
 
+---
+
+## 📝 Latest Blog Posts
+
+<!-- HASHNODE_BLOG:START -->
+<table>
+<tr>
+<td width="300px">
+<a href="https://srummanf.hashnode.dev/empowering-web3-ux-through-push-protocols-notification-system">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704378041243/95c141e0-60d1-4d2a-878f-6e066231369c.png" alt="Empowering Web3 UX through Push Protocol's Notification System" width="300px" />
+</a>
+</td>
+<td>
+<h3><a href="https://srummanf.hashnode.dev/empowering-web3-ux-through-push-protocols-notification-system">Empowering Web3 UX through Push Protocol's Notification System</a></h3>
+<p><strong>4 Jan 2024</strong></p>
+<p>Welcome to our step-by-step guide on integrating Push Protocol's notification system into your NextJS web application. In this blog, we'll cover the process of initializing a user, creating a notification channel, and implementing the APIs for sending...</p>
+</td>
+</tr>
+<tr>
+<td width="300px">
+<a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700378865643/5afea18f-1174-4aae-ae24-99a7c74fc793.png" alt="Cracking the Google Cloud Digital Exam: A Strategic Approach" width="300px" />
+</a>
+</td>
+<td>
+<h3><a href="https://srummanf.hashnode.dev/cracking-the-google-cloud-digital-exam-a-strategic-approach">Cracking the Google Cloud Digital Exam: A Strategic Approach</a></h3>
+<p><strong>19 Nov 2023</strong></p>
+<p>In the fast-paced world of cloud computing, earning certifications has become a valuable asset for professionals. One such coveted certification is the Google Cloud Digital Exam. In this article, I will be explaining how I cracked the exam without putting...</p>
+</td>
+</tr>
+</table>
+<!-- HASHNODE_BLOG:END -->
+
+<div align="center">
+  <a href="https://srummanf.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Read%20More%20Posts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read More Posts" />
+  </a>
+</div>
+
+---
+
+## 🎯 Fun Zone
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" />
+</picture>
+
+### 🟡👾 Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
 </picture>
 
+### 🧱🟢🎮 Breakout Game
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -195,17 +316,31 @@ JSON         1 min           ██████▒░░░░░░░░░░
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
+### 📈 Activity Graph
+[![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-[![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=21262d&color=f0f6fc&line=39d353&point=006d32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srummanf.srummanf&"  />
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/9c794c5f-0863-41ab-ab1b-674e4daa46a0.svg)](https://wakatime.com/@9c794c5f-0863-41ab-ab1b-674e4daa46a0)
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+<div align="center">
+  
+### 📊 Profile Views
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=srummanf.srummanf&left_color=gray&right_color=blue" alt="Profile Views" />
+
+### 💡 Let's Connect and Build Something Amazing Together!
+
+*"The best way to predict the future is to create it"* - Peter Drucker
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
-
