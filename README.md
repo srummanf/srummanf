@@ -238,6 +238,7 @@ Web3 Technologies:
 <div align="center">
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 10 August 2025 - To: 17 August 2025
 
@@ -246,6 +247,7 @@ Total Time: 5 mins
 TypeScript   4 mins          ██████████████████▓░░░░░░   74.05 %
 JSON         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
