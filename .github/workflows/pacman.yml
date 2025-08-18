@@ -29,7 +29,7 @@ jobs:
       - name: Move generated file to dist
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph*.svg dist/
+          mv pacman-contribution-graph.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
