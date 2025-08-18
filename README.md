@@ -1,5 +1,3 @@
-# Shaikh Rumman Fardeen
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaikh%20Rumman%20Fardeen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20UI/UX%20Designer%20%7C%20ML%20%7C%20AI&descAlignY=55&descSize=20" />
 </div>
@@ -21,8 +19,8 @@
 **☕ Turning coffee into code** since forever  
 
 🎓 **VIT Chennai Alumnus**  
-🌖 **Selenophile** | Simple Extrovert  
-🙏 **Alhumdullilah Mindset**
+🌖 **Selenophile | Simple Ambivert**  
+🙏 **Alhumdullilah Mindset**  
 
 *"Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu"*  
 **"And my success is not but through Allah. Upon Him I have relied, and to Him I return."**
@@ -30,17 +28,20 @@
 </td>
 <td width="50%">
 
-### 🎯 Current Focus
-- 🔭 Working on **Full-stack Development**
-- 🌱 Learning **Advanced AI/ML Concepts**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Python, UI/UX**
-- 📫 Reach me: **rummanfardeen4567@gmail.com**
-- ⚡ Fun fact: **I believe good code is like poetry**
+### 🌟 Highlights
+- 💡 Builder of **creative projects**: from financial dashboards → CLI toolkits → mini operating systems → retro games  
+- 🎨 Strong eye for **UI/UX & Brutalist Minimalist design**  
+- 🤖 Enthusiast of **AI, ML, GenAI, CV, and Deep Learning**  
+- 🕹️ Loves **retro arcades** (Pac-Man, Breakout) and gamified coding ideas  
+- 📚 Fascinated by **literature, philosophy and poetry** (Kafka, Dostoevsky, Parveen Shakir, Ahmed Faraz to name few)  
+- 🥗 Balances **tech with fitness & keto journey**  
+- 🌐 Explore about me: **[srummanf.is-a.dev](https://srummanf.is-a.dev/)**
 
 </td>
 </tr>
 </table>
+
+
 
 <div align="center">
 
@@ -67,6 +68,7 @@
   </a>
 </div>
 
+## 📍 Hacktoberfest Memoirs
 <div align="center" style="margin-top: 20px;">
   
 [![@srummanf's Holopin board](https://holopin.me/srummanf)](https://holopin.io/@srummanf)
@@ -75,9 +77,8 @@
 
 ---
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 <div align="center">
-🌟 Complete Tech Arsenal
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
 </a>
@@ -206,6 +207,11 @@ Web3 Technologies:
 
 </div>
 
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
 ---
 
 ## 🏆 Achievements & Trophies
@@ -215,28 +221,32 @@ Web3 Technologies:
 </div>
 
 ---
-
 ## 💻 Coding Activity
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-### 🧠 LeetCode Stats
-<div align="center">
-  <a href="https://leetcode.com/u/srummanf/">
-    <img src="https://leetcard.jacoblin.cool/srummanf?theme=dark&font=Prompt&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-  
-  [![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
-</div>
+### 🧠 LeetCode Heatmap
+<a href="https://leetcode.com/u/srummanf/">
+  <img src="https://leetcard.jacoblin.cool/srummanf?theme=dark&font=Prompt&ext=heatmap" alt="LeetCode Heatmap" />
+</a>
 
 </td>
+<td align="center">
 
+### 🧠 LeetCode Stats
+<a href="https://github.com/JeremyTsaii/leetcode-stats">
+  <img src="https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark" alt="LeetCode Stats" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ### ⏰ WakaTime Stats
-<div align="center">
-
 <!--START_SECTION:waka-->
 ```txt
 From: 10 August 2025 - To: 17 August 2025
@@ -246,12 +256,10 @@ Total Time: 5 mins
 TypeScript   4 mins          ██████████████████▓░░░░░░   74.05 %
 JSON         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
 ```
-<!--END_SECTION:waka-->
-
-</div>
-</tr>
+<!--END_SECTION:waka--> 
+</td> 
+</tr> 
 </table>
-
 
 
 
@@ -333,12 +341,6 @@ JSON         1 min           ██████▒░░░░░░░░░░
 [![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
