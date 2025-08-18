@@ -248,6 +248,7 @@ Web3 Technologies:
 
 ### ⏰ WakaTime Stats
 <!--START_SECTION:waka-->
+
 ```txt
 From: 10 August 2025 - To: 17 August 2025
 
@@ -256,9 +257,17 @@ Total Time: 5 mins
 TypeScript   4 mins          ██████████████████▓░░░░░░   74.05 %
 JSON         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
 ```
+<<<<<<< HEAD
 <!--END_SECTION:waka--> 
 </td> 
 </tr> 
+=======
+
+<!--END_SECTION:waka-->
+
+</div>
+</tr>
+>>>>>>> c5d3948970365eb9ea7e92b85d612f9e2eb90777
 </table>
 
 
