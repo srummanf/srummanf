@@ -163,12 +163,12 @@ VIT Chennai Alumnus 🏫 | Selenophile 🌖 | Simple Extrovert who believes in t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 1 min
+Total Time: 5 mins
 
-JSON         1 min           ██████████████████████░░░   87.51 %
-TypeScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+TypeScript   4 mins          ██████████████████▓░░░░░░   74.05 %
+JSON         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
 ```
 
 <!--END_SECTION:waka-->
