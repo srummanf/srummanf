@@ -1,7 +1,7 @@
 # Shaikh Rumman Fardeen
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20UI/UX%20Designer%20%7C%20ML%20%7C%20AI&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaikh%20Rumman%20Fardeen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20UI/UX%20Designer%20%7C%20ML%20%7C%20AI&descAlignY=55&descSize=20" />
 </div>
 
 <p align="center">
@@ -75,73 +75,85 @@
 
 ---
 
-## 🛠️ Technology Stack
-
+🛠️ Technology Stack
+<div align="center">
+🌟 Complete Tech Arsenal
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
+</a>
+</div>
 <details>
 <summary><b>🖥️ Frontend Development</b></summary>
 <br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind,bootstrap,sass,vite,babel" />
+  </a>
+</div>
 </details>
-
 <details>
 <summary><b>⚙️ Backend Development</b></summary>
 <br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,go,graphql" />
+  </a>
+</div>
+</details>
+<details>
+<summary><b>🧠 AI, ML & Data Analysis</b></summary>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,opencv,anaconda,jupyter" />
+  </a>
+</div>
+Frameworks & Libraries:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+🔬 Machine Learning: TensorFlow, PyTorch, Scikit-learn
+📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+🤖 AI/NLP: OpenAI API, Hugging Face, NLTK, spaCy
+📈 Data Visualization: Plotly, D3.js, Tableau
+🔍 Computer Vision: OpenCV, PIL, ImageAI
+📚 Jupyter: Interactive data science and ML workflows
 
 </details>
-
 <details>
 <summary><b>🗄️ Database & Cloud</b></summary>
 <br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,googlecloud" />
+  </a>
+</div>
 </details>
-
 <details>
 <summary><b>🎨 Design & Tools</b></summary>
 <br>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,githubactions,postman,netlify,vercel,md,wordpress,webflow" />
+  </a>
+</div>
 </details>
-
 <details>
 <summary><b>🔗 Blockchain & Web3</b></summary>
 <br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,ipfs,remix" />
+  </a>
+</div>
+Web3 Technologies:
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+⛓️ Smart Contracts: Solidity, Ethereum, Polygon
+🌐 IPFS: Decentralized storage solutions
+🔧 Development: Remix IDE, Hardhat, Truffle
+💳 Integration: Web3.js, MetaMask, WalletConnect
 
 </details>
+
+
 
 ---
 
@@ -220,7 +232,7 @@
 </div>
 
 </td>
-<td width="50%">
+
 
 ### ⏰ WakaTime Stats
 <div align="center">
@@ -237,10 +249,11 @@ JSON         1 min           ██████▒░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </div>
-
-</td>
 </tr>
 </table>
+
+
+
 
 ---
 
