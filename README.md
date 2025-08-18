@@ -183,6 +183,18 @@ JSON         1 min           ██████▒░░░░░░░░░░
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 
 
 [![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=21262d&color=f0f6fc&line=39d353&point=006d32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -197,14 +209,3 @@ JSON         1 min           ██████▒░░░░░░░░░░
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
