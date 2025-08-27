@@ -351,7 +351,19 @@ Java         1 hr 28 mins    █▓░░░░░░░░░░░░░░░
 
 ---
 
-<div align="center">
+## 🌌 Moonlit Reflections  
+
+> *"The phases of the moon remind us—everything is change, yet everything is whole."*  
+
+<p align="center">
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=0" alt="Moon Phase Ray Theme" />
+  </a>
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?size=200&theme=basic&rotate=0" alt="Moon Phase Basic Theme" />
+  </a>
+</p>
+
   
 ### 📊 Profile Views
   
