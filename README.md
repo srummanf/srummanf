@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaikh%20Rumman%20Fardeen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20UI/UX%20Designer%20%7C%20ML%20%7C%20AI&descAlignY=55&descSize=20" />
+  <img src="./image/README/1756648229492.png" />
 </div>
 
 <p align="center">
