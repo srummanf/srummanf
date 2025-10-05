@@ -252,14 +252,14 @@ Web3 Technologies:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2025 - To: 02 October 2025
+From: 27 September 2025 - To: 04 October 2025
 
-Total Time: 3 hrs 45 mins
+Total Time: 1 hr 58 mins
 
-HTML         1 hr 44 mins    ███████████▓░░░░░░░░░░░░░   46.42 %
-JavaScript   1 hr 35 mins    ██████████▓░░░░░░░░░░░░░░   42.25 %
-TypeScript   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JavaScript   1 hr 16 mins    ████████████████░░░░░░░░░   64.53 %
+TypeScript   18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+HTML         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka--> 
