@@ -15,38 +15,10 @@
 <tr>
 <td width="50%">
 
-**🚀 Software Developer** with a passion for crafting digital experiences  
-**☕ Turning coffee into code** since forever  
-
-🎓 **VIT Chennai Alumnus**  
-🌖 **Selenophile | Simple Ambivert**  
-🙏 **Alhumdullilah Mindset**  
-
-*"Tawfiqi illa bil-lahi alayhi tawakkaltu wa-ilayhi unibu"*  
-**"And my success is not but through Allah. Upon Him I have relied, and to Him I return."**
-
-</td>
-<td width="50%">
-
-### 🌟 Highlights
-- 💡 Builder of **creative projects**: from financial dashboards → CLI toolkits → mini operating systems → retro games  
-- 🎨 Strong eye for **UI/UX & Brutalist Minimalist design**  
-- 🤖 Enthusiast of **AI, ML, GenAI, CV, and Deep Learning**  
-- 🕹️ Loves **retro arcades** (Pac-Man, Breakout) and gamified coding ideas  
-- 📚 Fascinated by **literature, philosophy and poetry** (Kafka, Dostoevsky, Parveen Shakir, Ahmed Faraz to name few)  
-- 🥗 Balances **tech with fitness & keto journey**  
-- 🌐 Explore about me: **[srummanf.is-a.dev](https://srummanf.is-a.dev/)**
-
-</td>
-</tr>
-</table>
-
-
-
 <div align="center">
 
-
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
 </div>
 
 ---
@@ -69,8 +41,9 @@
 </div>
 
 ## 📍 Hacktoberfest Memoirs
+
 <div align="center" style="margin-top: 20px;">
-  
+
 [![@srummanf's Holopin board](https://holopin.me/srummanf)](https://holopin.io/@srummanf)
 
 </div>
@@ -78,6 +51,7 @@
 ---
 
 ## 🛠️ Technology Stack
+
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,googlecloud,flask,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,babel,wordpress,webflow,tailwind,sass,express,firebase,supabase,mongodb,mysql,postgres,postman,netlify,vercel,graphql,solidity,ipfs,remix" />
@@ -154,8 +128,6 @@ Web3 Technologies:
 
 </details>
 
-
-
 ---
 
 ## 📊 GitHub Analytics
@@ -166,7 +138,7 @@ Web3 Technologies:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-  <table>
+<table>
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=srummanf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph" />
@@ -186,7 +158,7 @@ Web3 Technologies:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srummanf&theme=dracula)
 
-  <table>
+<table>
     <tr>
       <td width="50%">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srummanf&theme=dracula" alt="Repos per Language" />
@@ -213,7 +185,6 @@ Web3 Technologies:
   <img src="https://github-contributor-stats.vercel.app/api?username=srummanf&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
 
-
 ---
 
 ## 🏆 Achievements & Trophies
@@ -223,58 +194,19 @@ Web3 Technologies:
 </div>
 
 ---
+
 ## 💻 Coding Activity
 
 <table>
 <tr>
 <td align="center">
 
-### 🧠 LeetCode Heatmap
-<a href="https://leetcode.com/u/srummanf/">
-  <img src="https://leetcard.jacoblin.cool/srummanf?theme=dark&font=Prompt&ext=heatmap" alt="LeetCode Heatmap" />
-</a>
-
-</td>
-<td align="center">
-
-### 🧠 LeetCode Stats
-<a href="https://github.com/JeremyTsaii/leetcode-stats">
-  <img src="https://leetcode-stats.vercel.app/api?username=srummanf&theme=Dark" alt="LeetCode Stats" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### ⏰ WakaTime Stats
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 June 2026 - To: 23 June 2026
-
-Total Time: 1 hr 54 mins
-
-Java         55 mins               ████████████▒░░░░░░░░░░░░   49.07 %
-TypeScript   27 mins               ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-HTML         9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-CSS          6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JavaScript   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-```
-
-<!--END_SECTION:waka--> 
-</td> 
-</tr> 
-</table>
-
-
-
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+
 <table>
 <tr>
 <td width="300px">
@@ -316,15 +248,18 @@ JavaScript   5 mins                █▒░░░░░░░░░░░░░
 <div align="center">
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/srummanf/srummanf/output/snake.svg" />
 </picture>
 
 ### 🟡👾 Pacman
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srummanf/srummanf/output/pacman-contribution-graph.svg">
@@ -332,6 +267,7 @@ JavaScript   5 mins                █▒░░░░░░░░░░░░░
 </picture>
 
 ### 🧱🟢🎮 Breakout Game
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -345,15 +281,16 @@ JavaScript   5 mins                █▒░░░░░░░░░░░░░
 </picture>
 
 ### 📈 Activity Graph
+
 [![srummanf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srummanf&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🌌 Moonlit Reflections  
+## 🌌 Moonlit Reflections
 
-> *"The phases of the moon remind us—everything is change, yet everything is whole."*  
+> *"The phases of the moon remind us—everything is change, yet everything is whole."*
 
 <p align="center">
   <a href="https://moon-svg.minung.dev">
@@ -364,9 +301,8 @@ JavaScript   5 mins                █▒░░░░░░░░░░░░░
   </a>
 </p>
 
-  
 ### 📊 Profile Views
-  
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=srummanf.srummanf&left_color=gray&right_color=blue" alt="Profile Views" />
 
 ### 💡 Let's Connect and Build Something Amazing Together!
