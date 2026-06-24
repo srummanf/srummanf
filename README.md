@@ -252,15 +252,15 @@ Web3 Technologies:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2026 - To: 22 June 2026
+From: 16 June 2026 - To: 23 June 2026
 
-Total Time: 3 hrs 30 mins
+Total Time: 1 hr 54 mins
 
-Java         1 hr 13 mins          ████████▓░░░░░░░░░░░░░░░░   34.75 %
-TypeScript   28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Git Config   19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Python       18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-HTML         17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Java         55 mins               ████████████▒░░░░░░░░░░░░   49.07 %
+TypeScript   27 mins               ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+HTML         9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+CSS          6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JavaScript   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka--> 
