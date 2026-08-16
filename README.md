@@ -11,10 +11,6 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%">
-
 <div align="center">
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
@@ -195,12 +191,6 @@ Web3 Technologies:
 
 ---
 
-## 💻 Coding Activity
-
-<table>
-<tr>
-<td align="center">
-
 ---
 
 ## 📝 Latest Blog Posts
@@ -308,8 +298,6 @@ Web3 Technologies:
 ### 💡 Let's Connect and Build Something Amazing Together!
 
 *"The best way to predict the future is to create it"* - Peter Drucker
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
